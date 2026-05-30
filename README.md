@@ -1,72 +1,69 @@
-# Hi there, I'm Areeba 👋
-
-🚀 **Full Stack Developer | AI & Computer Vision Enthusiast | Problem Solver**
-
-I am a passionate developer focused on building efficient, scalable, and real-world applications — especially in AI-powered systems and full-stack web development.
-
-Currently exploring **Full Stack Development**, **System Design**, and **AI-based automation tools**.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00d4ff&height=180&section=header&text=Areeba%20Shakeel%20Siddiqi&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+</div>
 
 ---
 
-## 🧠 About Me
+### 👩‍💻 About Me
 
-* 💻 Working with: Python, JavaScript, Java
-* 🤖 Interested in: AI systems, OCR, Computer Vision, Backend Engineering
-* 🌱 Currently learning: Full Stack Web Development & Deployment (Vercel, Render, Railway)
-* 🎯 Goal: Become a strong Software Engineer & build impactful AI-driven products
-* 🧩 Love solving real-world problems with code
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**
-Python • JavaScript • Java • C++
-
-**Backend:**
-Node.js • Express • Flask
-
-**Frontend:**
-React • HTML • CSS
-
-**AI / ML:**
-OpenCV • Tesseract OCR • NumPy • Pandas
-
-**Database:**
-MySQL • MongoDB
-
-**Tools:**
-Git • GitHub • Postman • Docker • Vercel • Render
+- 🎓 Software Engineering student @ **COMSATS University Islamabad, Abbottabad** (2024–2028)
+- 💼 Ex-Intern @ **DevelopersHub Corporation** & **Elite Tech Solutions**
+- 🌱 Currently exploring **AI/ML**, **System Design**, and **Advanced React**
+- 🔭 Working on projects that combine logic with creativity
+- 📍 Based in Pakistan 🇵🇰
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ Languages & Tools
 
-🔹 **QuizScan — AI Quiz Scanner & Grading System**
-Automated system that scans bubble sheets, extracts answers using OCR, and grades them instantly.
-`Tech used: Python, OpenCV, Tesseract, Flask, React`
-
-🔹 **AI Assignment & Project Group Manager**
-A GitHub-based project organization system for managing academic submissions and team collaboration.
-`Tech used: GitHub, Node.js, React`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mongodb,mysql,git,github,figma,c&theme=dark" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AreebaShakeelSiddiqi&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=ffffff&border_color=00ff88&hide_border=false" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaShakeelSiddiqi&layout=compact&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaShakeelSiddiqi&theme=dark&background=0d1117&ring=00ff88&fire=00d4ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00ff88&sideNums=00d4ff&border=00ff88" width="55%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AreebaShakeelSiddiqi&bg_color=0d1117&color=00ff88&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
 
 ---
 
-## 📫 Connect With Me
+### 📌 Featured Projects
 
-* LinkedIn: www.linkedin.com/in/areeba-shakeel-siddiqi-8bb622340
-* Email: areebasaddiqi13@gmail.com
-* GitHub: https://github.com/AreebaShakeelSiddiqi
-
----
-
-⭐ *“Code is not just written — it’s engineered.”*
+| Project | Description | Tech |
+|---|---|---|
+| [LUXE](https://github.com/AreebaShakeelSiddiqi) | Luxury e-commerce platform with responsive UI & cart functionality | React, Node.js |
+| [NEXUS](https://github.com/AreebaShakeelSiddiqi) | Full-stack app with messaging, video calling & payment modules | MERN Stack |
+| [Reflect List](https://github.com/AreebaShakeelSiddiqi/ReflectList) | JavaFX desktop app with multi-scene navigation & session management | Java, JavaFX |
 
 ---
 
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/areeba-shakeel-siddiqi-8bb622340">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:areebasaddiqi13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AreebaShakeelSiddiqi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>
