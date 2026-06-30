@@ -5,7 +5,6 @@
 ---
 
 ### 👩‍💻 About Me
-
 - 🎓 Software Engineering student @ **COMSATS University Islamabad, Abbottabad** (2024–2028)
 - 💼 Ex-Intern @ **DevelopersHub Corporation** & **Elite Tech Solutions**
 - 🌱 Currently exploring **AI/ML**, **System Design**, and **Advanced React**
@@ -15,7 +14,6 @@
 ---
 
 ### 🛠️ Languages & Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mongodb,mysql,git,github,figma,c&theme=dark" />
 </p>
@@ -23,25 +21,18 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AreebaShakeelSiddiqi&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=ffffff&border_color=00ff88&hide_border=false" height="160"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaShakeelSiddiqi&layout=compact&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88" height="160"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaShakeelSiddiqi&theme=dark&background=0d1117&ring=00ff88&fire=00d4ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00ff88&sideNums=00d4ff&border=00ff88" width="55%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AreebaShakeelSiddiqi&bg_color=0d1117&color=00ff88&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
 
 ### 📌 Featured Projects
-
 | Project | Description | Tech |
 |---|---|---|
 | [LUXE](https://github.com/AreebaShakeelSiddiqi) | Luxury e-commerce platform with responsive UI & cart functionality | React, Node.js |
@@ -51,7 +42,6 @@
 ---
 
 ### 📫 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/areeba-shakeel-siddiqi-8bb622340">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
