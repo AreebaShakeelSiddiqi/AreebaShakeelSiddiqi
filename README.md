@@ -21,13 +21,29 @@
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AreebaShakeelSiddiqi&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=ffffff&border_color=00ff88&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AreebaShakeelSiddiqi&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=ffffff&border_color=00ff88&hide_border=false&border_radius=10" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaShakeelSiddiqi&layout=compact&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaShakeelSiddiqi&layout=compact&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88&border_radius=10" height="160"/>
 </div>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaShakeelSiddiqi&theme=dark&background=0d1117&ring=00ff88&fire=00d4ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00ff88&sideNums=00d4ff&border=00ff88" width="55%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaShakeelSiddiqi&theme=dark&background=0d1117&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=00d4ff&currStreakNum=ffffff&sideNums=ffffff&border=00ff88&border_radius=10" width="55%"/>
+</div>
+
+<br/>
+
+### 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AreebaShakeelSiddiqi/AreebaShakeelSiddiqi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AreebaShakeelSiddiqi/AreebaShakeelSiddiqi/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AreebaShakeelSiddiqi/AreebaShakeelSiddiqi/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
